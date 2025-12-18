@@ -1,4 +1,4 @@
 .idea/
 /Tests/__init__.py
 .pytest.cache/
-__pycache__
+__pycache__/
